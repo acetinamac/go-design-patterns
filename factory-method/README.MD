@@ -27,4 +27,4 @@ product objects without specifying their concrete classes.
       Configure log destinations dynamically
 
 ### Factory Method Image example
-![](assets\factory-method.png)
+![factory method](./assets/factory-method.png)
